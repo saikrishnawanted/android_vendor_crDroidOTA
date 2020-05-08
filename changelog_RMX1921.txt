@@ -1,8 +1,14 @@
 Highlights & Device Specific Changes:
-Build type: Beta
+Build type: Stable
 Device: Realme XT (<RMX1921>)
 Device maintainer: Sai Krishna (Sai)
 Required firmware: A.16 Firmware only
+
+===== 08-05-2020 =====
+-Source Upstream
+-Added face Unlock
+-Upgraded kernel to 4.9.222
+-many under the hood improvements to kernel
 
 
 ===== 21-03-2020 =====
